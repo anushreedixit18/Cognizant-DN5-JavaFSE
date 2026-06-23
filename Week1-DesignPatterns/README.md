@@ -3,4 +3,4 @@
 Mandatory Hands-ons:
 
 - [x] Singleton Pattern
-- [ ] Factory Method Pattern
+- [x] Factory Method Pattern
