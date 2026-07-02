@@ -1,8 +1,8 @@
 # Week 1 - PL/SQL
 
-This folder contains the mandatory PL/SQL hands-on exercises completed as part of Cognizant Digital Nurture 5.0 Java FSE.
+## Mandatory Hands-on
 
-## Completed Exercises
+- ✅ Exercise 1: Control Structures
+- ✅ Exercise 3: Stored Procedures
 
-- Exercise 1: Control Structures
-- Exercise 3: Stored Procedures
+These solutions are part of the Cognizant Digital Nurture 5.0 Java FSE Program.
