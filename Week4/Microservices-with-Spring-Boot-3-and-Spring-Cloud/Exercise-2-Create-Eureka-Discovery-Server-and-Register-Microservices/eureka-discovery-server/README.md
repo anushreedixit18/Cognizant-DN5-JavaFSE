@@ -1,8 +1,5 @@
-Eureka Discovery Server
+Eureka Discovery Server:
 
-Create this structure:
-
-```text
 eureka-discovery-server
 ├── pom.xml
 └── src
