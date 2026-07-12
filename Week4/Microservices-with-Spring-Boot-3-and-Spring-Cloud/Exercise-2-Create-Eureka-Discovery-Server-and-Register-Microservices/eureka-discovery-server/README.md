@@ -1,5 +1,5 @@
 Eureka Discovery Server:
-
+```text
 eureka-discovery-server
 ├── pom.xml
 └── src
