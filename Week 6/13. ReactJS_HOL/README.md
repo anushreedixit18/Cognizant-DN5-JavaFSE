@@ -10,7 +10,6 @@ Implement conditional rendering and list rendering using React components and th
 ## Run
 
 ```bash
-npm install
 npm start
 ```
 
