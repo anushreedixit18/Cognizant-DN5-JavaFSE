@@ -3,7 +3,7 @@
 ## Objective
 Implement conditional rendering in React using Login and Logout components.
 
-## Project Structure
+## Project Structure 
 - ticketbookingapp
 - screenshots
 
