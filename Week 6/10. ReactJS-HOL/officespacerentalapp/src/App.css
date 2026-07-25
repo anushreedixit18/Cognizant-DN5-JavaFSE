@@ -1,0 +1,8 @@
+.container {
+  margin: 40px;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  object-fit: cover;
+}
